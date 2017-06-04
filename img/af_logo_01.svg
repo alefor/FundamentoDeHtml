@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120mm"
+   height="20mm"
+   viewBox="0 0 120 20"
+   version="1.1"
+   id="svg3738"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="af_logo_01.svg">
+  <defs
+     id="defs3732">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="f110"
+       inkscape:label="Evanescent"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Blur the contents of objects, preserving the outline and adding progressive transparency at edges">
+      <feGaussianBlur
+         result="result6"
+         stdDeviation="3"
+         in="SourceGraphic"
+         id="feGaussianBlur3691" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7"
+         in="SourceGraphic"
+         id="feColorMatrix3693" />
+      <feComposite
+         operator="in"
+         in="result6"
+         in2="result7"
+         id="feComposite3695" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter3724"
+       inkscape:label="Evanescent"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Blur the contents of objects, preserving the outline and adding progressive transparency at edges">
+      <feGaussianBlur
+         result="result6"
+         stdDeviation="3"
+         in="SourceGraphic"
+         id="feGaussianBlur3718" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7"
+         in="SourceGraphic"
+         id="feColorMatrix3720" />
+      <feComposite
+         operator="in"
+         in="result6"
+         in2="result7"
+         id="feComposite3722" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata3735">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       class="currentLayer"
+       id="g3689"
+       transform="matrix(0.26458333,0,0,0.26458333,-46.168278,-31.548732)">
+      <title
+         id="title3683">Layer 1</title>
+      <path
+         stroke-dashoffset=""
+         id="svg_73"
+         d="m 476.97901,164.02686 c 7.52846,0 14.60689,2.97397 19.92427,8.36906 5.3296,5.39757 8.25979,12.58938 8.25979,20.24272 h 11.60578 c 0,-22.23194 -17.8526,-40.31514 -39.79229,-40.31514 v 11.70336 z m 0.0147,-20.75113 c 26.83882,0 48.66844,22.1505 48.66844,49.37525 h 11.60089 c 0,-33.67863 -27.03694,-61.08107 -60.27177,-61.08107 v 11.70582 z m 16.04508,41.19375 c 0,4.47946 -3.59791,8.11239 -8.03477,8.11239 -4.43685,0 -8.03477,-3.63293 -8.03477,-8.11239 0,-4.47452 3.59792,-8.10745 8.03477,-8.10745 4.43686,0 8.03477,3.63046 8.03477,8.10745 z"
+         style="color:#000000;fill:#4a90d6;fill-rule:nonzero;stroke:#484848;stroke-width:2;stroke-linejoin:round;stroke-opacity:1;filter:url(#f110)"
+         class=""
+         inkscape:connector-curvature="0" />
+      <rect
+         stroke-dashoffset=""
+         id="svg_86"
+         x="183"
+         y="129.51797"
+         width="287.32431"
+         height="64.482025"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#484848;stroke-width:2;stroke-linejoin:round;stroke-opacity:1;filter:url(#f110)"
+         class="" />
+      <rect
+         stroke-dashoffset=""
+         id="svg_88"
+         x="424"
+         y="124"
+         width="0"
+         height="6"
+         style="color:#000000;fill:#4a90d6;fill-rule:nonzero;stroke:#222222;stroke-width:2;stroke-linejoin:round" />
+      <polyline
+         stroke-dashoffset=""
+         id="svg_94"
+         points="275.14595295743743,166.91891016935773 275.14595295743743,166.91891016935773 "
+         style="color:#000000;fill:none;fill-rule:nonzero;stroke:#222222;stroke-width:2;stroke-linejoin:round" />
+      <foreignObject
+         fill="#4a90d6"
+         stroke="#222222"
+         stroke-width="2"
+         stroke-linejoin="round"
+         stroke-dashoffset=""
+         fill-rule="nonzero"
+         font-size="67"
+         font-family="Georgia, serif"
+         letter-spacing="0"
+         word-spacing="0"
+         marker-start=""
+         marker-mid=""
+         marker-end=""
+         id="svg_104"
+         x="183.6101837158203"
+         y="126.08108520507812"
+         width="281.3978576660156"
+         height="103.8106689453125"
+         style="color: rgb(74, 144, 214);"
+         class=""
+         fill-opacity="1">
+        <xhtml:p
+           style="border: none;outline: none;font-size: inherit;line-height: 1em;padding:0;margin:0;">
+          <xhtml:p
+             style="border: none;outline: none;font-size: inherit;line-height: 1em;padding:0;margin:0;" />
+          <xhtml:p
+             style="border: none;outline: none;font-size: inherit;line-height: 1em;padding:0;margin:0;">@fornesi</xhtml:p>
+          <xhtml:p
+             style="border: none;outline: none;font-size: inherit;line-height: 1em;padding:0;margin:0;" />
+        </xhtml:p>
+      </foreignObject>
+    </g>
+  </g>
+</svg>
